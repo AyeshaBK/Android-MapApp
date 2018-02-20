@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/summerschool/Downloads/android-samples-master/tutorials/MyCityGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04ea968afdc261c88dc904fafdc870618268bb2a">
+        <dex dex="/Users/summerschool/Downloads/android-samples-master/tutorials/MyCityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d9dd5e4508b4e55af3be019d2f759e8ad0ff630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/summerschool/Downloads/android-samples-master/tutorials/MyCityGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/summerschool/Downloads/android-samples-master/tutorials/MyCityGuide/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f720eb2aa05a043dd3c98dc25f37ece661c42ca/classes.dex" />
+    </item>
+
+</items>
